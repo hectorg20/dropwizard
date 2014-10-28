@@ -1,0 +1,6 @@
+org/awebo/dropwizard/resources/HelloWorldResource.class
+org/awebo/dropwizard/core/Saying.class
+org/awebo/dropwizard/App.class
+org/awebo/dropwizard/HelloWorldApplication.class
+org/awebo/dropwizard/HelloWorldConfiguration.class
+org/awebo/dropwizard/health/TemplateHealthCheck.class
